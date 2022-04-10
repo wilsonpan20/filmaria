@@ -36,3 +36,9 @@
 .filme-info a:hover{
     color:#fff;
 }
+
+@media(max-width:780px){
+    .filme-info{
+        width: 100%;
+    }
+}
